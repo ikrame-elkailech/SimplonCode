@@ -1,0 +1,17 @@
+body {
+	background-color: #f8f9fa;
+}
+.sidebar {
+	background-color: #343a40;
+	color: #ffffff;
+	height: 100%;
+}
+.sidebar a {
+	color: #ffffff;
+}
+.sidebar a:hover {
+	background-color: #6c757d;
+}
+.th1{
+	text-align: center;
+}
